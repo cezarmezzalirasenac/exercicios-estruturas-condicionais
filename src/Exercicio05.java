@@ -5,7 +5,7 @@ import java.util.Scanner;
  * números do usuário e imprime o maior deles.
  */
 
-public class Exercicios05 {
+public class Exercicio05 {
   public static void main(String[] args) {
     // 1 - Solicite três números inteiros para o usuário
     Scanner scanner = new Scanner(System.in);
